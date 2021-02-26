@@ -8,6 +8,8 @@ Un projet client sur astrophysique et aérospaciale (Easy Spacy)
 
 ## ◾ Plan du site
 
+[Mon plan site](https://github.com/Yarici-Ayse/Easy-Spacy/blob/main/Plan%20du%20site.md)
+
 ## ◾ Stratégie
 
 ## ◾ Mes notes
