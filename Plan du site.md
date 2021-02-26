@@ -15,11 +15,15 @@
 ## ◾ Section " Capsules "
 
  _Astrophysique_
+ 
     * Mettre quelque capsules
-    * Un bouton 'Voir tous'   
+    * Un bouton 'Voir tous' 
+    
 _Arospaciale_
+
     * Mettre quelque capsules
     * Un bouton 'Voir tous'
+ 
 ## ◾ Section " News "
 
 * Le titre du news
@@ -43,8 +47,11 @@ _Arospaciale_
 ### ◾ Page " Capsules "
 
  _Astrophysique_
-    * Tous les capsules   
+ 
+    * Tous les capsules  
+
 _Arospaciale_
+
     * Tous les capsules
 
 ### ◾ Page " A propos de nous "
